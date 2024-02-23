@@ -99,6 +99,11 @@ git revert id_commit
 #           REMOTE              #
 # ----------------------------- #
 
+# Clone un dépôt Git distant en créant une copie locale du projet.
+git clone url
+
+----------------------------------------------------------------------
+
 # Etablir une connexion avec un dépôt distant en lui attribuant un nom et une URL.
 git remote add alias url
 

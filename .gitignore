@@ -1,2 +1,3 @@
+# .gitignore est un fichier qui permet de spécifier les fichiers et répertoires qui ne doivent pas être suivis par git.
 index.html
 /test
