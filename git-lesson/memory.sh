@@ -111,3 +111,14 @@ git push
 
 # Récupère tout l'historique du dépôt distant et incorpore les modification.
 git pull
+
+# Récupère les modifications de la branche spécifiée du dépôt distant et les fusionne avec la branche locale.
+git pull alias nom_branch
+
+# ----------------------------- #
+#           .GITIGNORE          #
+# ----------------------------- #
+
+# Le fichier .gitignore est un fichier dans lequel vous pouvez spécifier les fichiers et les dossiers à ignorer lors du suivi par Git.
+.gitignore
+
